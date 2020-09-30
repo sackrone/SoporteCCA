@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30428.66
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoporteCCA.Common", "SoporteCCA.Common\SoporteCCA.Common.csproj", "{A527C657-87D3-4B45-A629-0AC19FA59381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoporteCCA.Web", "SoporteCCA.Web\SoporteCCA.Web.csproj", "{B9B280D7-5952-4F6F-887F-9FC7742506DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A527C657-87D3-4B45-A629-0AC19FA59381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A527C657-87D3-4B45-A629-0AC19FA59381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A527C657-87D3-4B45-A629-0AC19FA59381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A527C657-87D3-4B45-A629-0AC19FA59381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B280D7-5952-4F6F-887F-9FC7742506DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B280D7-5952-4F6F-887F-9FC7742506DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B280D7-5952-4F6F-887F-9FC7742506DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B280D7-5952-4F6F-887F-9FC7742506DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B27DE447-47BD-4A58-A16F-A4D0832610AD}
+	EndGlobalSection
+EndGlobal
